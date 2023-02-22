@@ -18,9 +18,27 @@
 
 </details>
 
+
+<details>
+<summary>002</summary>
+
+# Flow
+- handleConn
+- - handshake
+- - Decode
+
+# TODO
+- GOBDecode
+- any in decoder
+
+</details>
+
+
+
 # CMD
 - <code>make run</code>
 - <code>make test</code>
+- <code>telnet localhost 3000</code>
 
 # Resources
 - [What is the TCP 3-Way Handshake and Why Backend Engineers should understand it](https://www.youtube.com/watch?v=bW_BILl7n0Y)
